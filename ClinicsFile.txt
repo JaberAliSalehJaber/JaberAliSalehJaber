@@ -1,0 +1,3 @@
+health  12  azal
+heart   10  al_arabi
+bones   5   erupian
